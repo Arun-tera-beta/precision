@@ -1,2 +1,2 @@
-# precision
-precision_exercise_monitoring 
+# precision_exercise_monitoring
+Uses deep learning models for position estimation to recognise and track essential body features while exercising. It classifies workouts and their phases based on a continual monitoring of the user's body position.computer vision algorithms are used to analyse video frames from the camera feed in order to extract critical data about the user's form. It can recognise and classify certain workouts  by continually monitoring the user's body position. The system provides useful information such as the current stage of the exercise, the number of repeti-tions, and the chance of correct performance.
